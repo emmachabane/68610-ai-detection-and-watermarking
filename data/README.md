@@ -1,0 +1,1 @@
+Files in the paraphrased folder include csv of different combinations of paraphrased texts. The watermarked folder has csvs of all watermarked combinations used in this paper, with varying sample sizes.
